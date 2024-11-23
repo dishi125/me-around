@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80">
+  <g id="그룹_5" data-name="그룹 5" transform="translate(-193 -375)">
+    <path id="빼기_1" data-name="빼기 1" d="M20,80H0V0H60V40h-.009A39.966,39.966,0,0,0,20,80Z" transform="translate(193 375)" fill="#fff"/>
+    <path id="빼기_2" data-name="빼기 2" d="M20,0H0V80H60V40h-.009A39.728,39.728,0,0,1,44.43,36.857a39.868,39.868,0,0,1-12.715-8.573A39.868,39.868,0,0,1,23.143,15.57,39.749,39.749,0,0,1,20,0Z" transform="translate(313 455) rotate(180)" fill="#fff"/>
+  </g>
+</svg>
